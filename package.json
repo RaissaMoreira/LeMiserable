@@ -1,11 +1,23 @@
 {
-  "name": "miserable",
+  "name": "lemiserable",
   "version": "1.0.0",
-  "description": "sem descrição",
-  "main": "miserable.js",
+  "description": "Sem descrição no momento. Nem sabemos o que tamo fazendo nessa bagaça xD",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redwars22/LeMiserable.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redwars22/LeMiserable/issues"
+  },
+  "homepage": "https://github.com/Redwars22/LeMiserable#readme",
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
 }
